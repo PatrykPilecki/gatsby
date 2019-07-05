@@ -9,6 +9,7 @@ const Header = ({ siteTitle }) => (
       marginBottom: `1.45rem`,
     }}
   >
+
     <div
       style={{
         margin: `0 auto`,
@@ -28,6 +29,7 @@ const Header = ({ siteTitle }) => (
         </Link>
       </h1>
     </div>
+    
   </header>
 )
 
